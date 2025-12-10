@@ -3,6 +3,9 @@
 This repository contains the code for AAAI 2024 paper `IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching`
 [paper-link](https://ojs.aaai.org/index.php/AAAI/article/download/28107/28218)
 
+## Downloads
+* [export_onnx.ipynb 다운로드](export_onnx.ipynb?raw=1)
+
 ![alt text](./iinet.png)
 
 
